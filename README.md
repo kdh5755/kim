@@ -1,2 +1,1 @@
 Trashbasket can follows People
-
